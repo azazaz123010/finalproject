@@ -1,0 +1,50 @@
+<!--Page 6 content-->
+      <div class="swiper-slide sliderbg">
+      <div class="swiper-container swiper-nested6">
+               <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                              <div class="slide-inner">
+                                        <div class="pages_container">
+                                            <h2 class="page_title">Contact & Resource</h2>
+                                            <blockquote> If you run into any challenges or questions, below are our contact information and some useful resources! </blockquote>
+                                            
+                                            <h3>Email and Phone number</h3>
+                                            <div class="service_box">
+                                              <div class="services_icon"><img src="images/icons/layout.png" alt="" title="" /></div>
+                                              <div class="service_content">
+                                                  <h3>email: xxxxxxxxx@ufl.edu </h3>
+                                                  <h3>phone: xxx-xxx-xxxx</h3>
+                                              </div>
+                                            </div>
+                                            <h3> Academic Resouce</h3>
+                                            <div class="service_box">
+                                              <div class="services_icon"><img src="images/icons/pencil.png" alt="" title="" /></div>
+                                              <div class="service_content">
+                                              <h4>Career Connection Center</h4>
+                                              <h5>Reitz Union Suite 1300, 352-392-1601. They provide career assistance and counseling services </h5>
+                                              <h4>Teaching Center</h4>
+                                              <h5>Broward Hall, 352-392-2010 or to make an appointment 352-392-6420. General study skills and tutoring</h5>
+                                              <h4>Writing Studio</h4>
+                                              <h5>2215 Turlington Hall, 352-846-1138. Help brainstorming, formatting, and writing papers</h5>
+                                              </div>
+                                            </div>  
+                                            <h3> Health & Wellness Resouce</h3>
+                                            <div class="service_box">
+                                              <div class="services_icon"><img src="images/icons/tools.png" alt="" title="" /></div>
+                                              <div class="service_content">
+                                              <h4>Counseling and Wellness Center</h4>
+                                              <h5>Visit the Counseling and Wellness Center website or call 352-392-1575 for information on crisis services as well as non-crisis services </h5>
+                                              <h4>University Police Department</h4>
+                                              <h5> Visit UF Police Department website or call 352-392-1111 (or 9-1-1 for emergencies)</h5>
+                                              </div>
+                                            </div>  
+                                            <div class="clearfix"></div>
+          <div class="scrolltop radius20"><a href="#" class="scrolltop2"><img src="images/icons/top.png" alt="Go on top" title="Go on top" /></a></div>
+                                            </div>
+                                            <!--End of page container-->
+                                  </div>
+                        </div>
+                  </div>
+                  <div class="swiper-scrollbar2"></div>
+         </div>
+         </div>
